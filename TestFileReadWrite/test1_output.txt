@@ -1,0 +1,5 @@
+Hellow buffered writer!
+Hellow buffered writer!
+red
+green
+blue
